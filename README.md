@@ -11,6 +11,6 @@ This is Vani Varanya
 
 ## Tech Stack
 
-• Languages: C, C++, C#,Java, Python, SQL, HTML, CSS, JavaScript
-• Frameworks: Scikit, Matplotlib, Pandas, NumPy, NLTK, TensorFlow, Keras, OpenCV, Flask, ReactJS
-• Tools and Technologies: Figma, Unity, Google Cloud, Web, Windows, Linux, Visual Studio Code, Git, Github
+- Languages: C, C++, C#,Java, Python, SQL, HTML, CSS, JavaScript
+- Frameworks: Scikit, Matplotlib, Pandas, NumPy, NLTK, TensorFlow, Keras, OpenCV, Flask, ReactJS
+- Tools and Technologies: Figma, Unity, Google Cloud, Web, Windows, Linux, Visual Studio Code, Git, Github
