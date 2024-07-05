@@ -1,7 +1,5 @@
 ## Hi there 👋
 This is Vani Varanya
-<!--
-**vanivaranya/vanivaranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 💻 I'm a B.Tech. CSE junior at Indira Gandhi Delhi Technical University for Women
 - ⚡ I’m proficient in Data Structures & Algorithms, Machine Learning and Frontend Development.
